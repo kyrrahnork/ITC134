@@ -117,3 +117,4 @@ fi
 alias ls='ls --color'
 LS_COLORS='di=0;34:fi=31;4;40:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=35:*.rpm=90'
 export LS_COLORS
+#tested by Anna Wong
